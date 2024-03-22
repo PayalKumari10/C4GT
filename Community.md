@@ -646,6 +646,29 @@
       </tr>
   </table>
 
+   <table>
+  <tr>
+    <td>Name</td>
+    <td>Payal Kumari</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/PayalKumari10</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/payalkumari10/</td>
+  </tr>
+  <tr>
+    <td>Twitter</td>
+    <td>https://twitter.com/PayalKumar89652</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Chandigarh University, Mohali Punjab.</td>
+  </tr>
+</table>  
+
 <table>
   <tr>
     <td>Name</td>
@@ -760,28 +783,7 @@
       </tr>
     </table>
 
-     <table>
-  <tr>
-    <td>Name</td>
-    <td>Payal Kumari</td>
-  </tr>
-  <tr>
-    <td>GitHub</td>
-    <td>https://github.com/PayalKumari10</td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td>https://www.linkedin.com/in/payalkumari10/</td>
-  </tr>
-  <tr>
-    <td>Twitter</td>
-    <td>https://twitter.com/PayalKumar89652</td>
-  </tr>
-  <tr>
-    <td>College</td>
-    <td>Chandigarh University, Mohali Punjab.</td>
-  </tr>
-</table>
+   
 <table>
     <table>
       <tr>
